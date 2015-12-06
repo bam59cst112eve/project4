@@ -28,8 +28,8 @@ void setup() {
 void draw() {
   background( 100,150,250 );
   scene();
-  action();
   show();
+  action();
   messages();
 }
 
